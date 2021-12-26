@@ -1,0 +1,676 @@
+﻿Log file open, 06/15/21 00:02:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CubeCraft2_0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.085107
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:695][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:699][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:699][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.14-22.02.47:699][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.14-22.02.47:699][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:699][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.14-22.02.47:699][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.14-22.02.47:700][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.14-22.02.47:700][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.14-22.02.47:703][  0]LogHAL: Display: Platform has ~ 16 GB [17134776320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.14-22.02.47:703][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.14-22.02.47:703][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:703][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.14-22.02.47:704][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.14-22.02.47:704][  0]LogInit: Computer: WHITESTORMPC
+[2021.06.14-22.02.47:704][  0]LogInit: User: andrz
+[2021.06.14-22.02.47:704][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.14-22.02.47:704][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.14-22.02.47:704][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.06.14-22.02.47:704][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.14-22.02.47:704][  0]LogMemory: Process Physical Memory: 105.25 MB used, 105.26 MB peak
+[2021.06.14-22.02.47:704][  0]LogMemory: Process Virtual Memory: 104.55 MB used, 104.55 MB peak
+[2021.06.14-22.02.47:704][  0]LogMemory: Physical Memory: 10414.25 MB used,  5926.75 MB free, 16341.00 MB total
+[2021.06.14-22.02.47:704][  0]LogMemory: Virtual Memory: 4691.75 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2021.06.14-22.02.47:707][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.14-22.02.47:747][  0]LogInit: Using OS detected language (pl-PL).
+[2021.06.14-22.02.47:747][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.14-22.02.47:747][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.06.14-22.02.47:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.06.14-22.02.47:749][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.14-22.02.47:784][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.14-22.02.47:784][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.14-22.02.47:991][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.06.14-22.02.47:991][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.14-22.02.48:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.06.14-22.02.48:083][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.14-22.02.48:085][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.14-22.02.48:085][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.14-22.02.48:085][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.14-22.02.48:094][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.14-22.02.48:094][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.14-22.02.48:094][  0]LogWindows: EnumDisplayDevices:
+[2021.06.14-22.02.48:094][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.06.14-22.02.48:094][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.06.14-22.02.48:094][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.06.14-22.02.48:094][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.06.14-22.02.48:095][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.14-22.02.48:095][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.06.14-22.02.48:095][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.14-22.02.48:095][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.14-22.02.48:095][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.06.14-22.02.48:168][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.14-22.02.48:189][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.14-22.02.48:477][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.06.14-22.02.48:484][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.06.14-22.02.48:491][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.06.14-22.02.48:498][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.06.14-22.02.48:505][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.06.14-22.02.48:515][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.06.14-22.02.48:523][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.14-22.02.48:530][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.06.14-22.02.48:533][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.06.14-22.02.48:560][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.06.14-22.02.48:562][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.06.14-22.02.48:576][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.06.14-22.02.48:576][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.06.14-22.02.48:588][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.06.14-22.02.48:588][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.06.14-22.02.48:594][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.06.14-22.02.48:602][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.14-22.02.48:611][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.06.14-22.02.48:618][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.06.14-22.02.48:639][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.06.14-22.02.48:639][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.06.14-22.02.48:639][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.14-22.02.48:647][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.14-22.02.48:683][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Projects/CubeCraft2_0/Intermediate/Shaders/WorkingDirectory/2144/).
+[2021.06.14-22.02.48:684][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andrz/AppData/Local/Temp/UnrealShaderWorkingDir/453956E246410B5D704D1D886672C646/'.
+[2021.06.14-22.02.48:685][  0]LogXGEController: Cleaning working directory: C:/Users/andrz/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.14-22.02.48:685][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2021.06.14-22.02.49:251][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/CubeCraft2_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/CubeCraft2_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.14-22.02.49:300][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.14-22.02.49:310][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.14-22.02.49:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.14-22.02.49:310][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.14-22.02.49:311][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andrz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.14-22.02.49:311][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.14-22.02.49:311][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.14-22.02.49:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.14-22.02.49:336][  0]LogSlate: Using FreeType 2.6.0
+[2021.06.14-22.02.49:336][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.14-22.02.49:392][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.06.14-22.02.49:628][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.14-22.02.49:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.14-22.02.49:760][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.14-22.02.49:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.14-22.02.49:760][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.14-22.02.49:760][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.14-22.02.49:768][  0]LogNetVersion: CubeCraft2_0 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 447841499)
+[2021.06.14-22.02.50:124][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.039253 seconds
+[2021.06.14-22.02.50:131][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2021.06.14-22.02.50:131][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2021.06.14-22.02.50:131][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.14-22.02.50:953][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.14-22.02.50:955][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.14-22.02.51:003][  0]SourceControl: Source control is disabled
+[2021.06.14-22.02.51:003][  0]SourceControl: Source control is disabled
+[2021.06.14-22.02.51:005][  0]SourceControl: Source control is disabled
+[2021.06.14-22.02.51:005][  0]SourceControl: Source control is disabled
+[2021.06.14-22.02.51:080][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.14-22.02.51:376][  0]LogOcInput: OculusInput pre-init called
+[2021.06.14-22.02.52:018][  0]LogEngine: Initializing Engine...
+[2021.06.14-22.02.52:019][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.06.14-22.02.52:020][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.14-22.02.52:212][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.14-22.02.52:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.14-22.02.52:284][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.14-22.02.52:428][  0]LogInit: FAudioDevice initialized.
+[2021.06.14-22.02.52:428][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.14-22.02.52:584][  0]LogDerivedDataCache: Saved boot cache 0.16s 76MB C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.06.14-22.02.52:587][  0]LogInit: Texture streaming: Enabled
+[2021.06.14-22.02.52:603][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.14-22.02.52:603][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.14-22.02.52:604][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.14-22.02.52:653][  0]LogInit: Transaction tracking system initialized
+[2021.06.14-22.02.52:682][  0]BlueprintLog: New page: Editor Load
+[2021.06.14-22.02.52:747][  0]LocalizationService: Localization service is disabled
+[2021.06.14-22.02.52:996][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/' took 0.00s
+[2021.06.14-22.02.52:996][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.14-22.02.52:996][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.14-22.02.53:194][  0]SourceControl: Source control is disabled
+[2021.06.14-22.02.53:194][  0]Cmd: MAP LOAD FILE="../../../../../Projects/CubeCraft2_0/Content/Assets/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.14-22.02.53:195][  0]LightingResults: New page: Lighting Build
+[2021.06.14-22.02.53:197][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.02.53:197][  0]MapCheck: New page: Map Check
+[2021.06.14-22.02.53:197][  0]LightingResults: New page: Lighting Build
+[2021.06.14-22.02.53:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.14-22.02.53:374][  0]LogAIModule: Creating AISystem for world Main
+[2021.06.14-22.02.53:398][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.14-22.02.53:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.06.14-22.02.53:421][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.14-22.02.53:422][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2021.06.14-22.02.53:422][  0]LogFileHelpers: Loading map 'Main' took 0.228
+[2021.06.14-22.02.53:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-22.02.53:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-22.02.53:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-22.02.53:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-22.02.53:567][  0]LogCollectionManager: Loaded 0 collections in 0.001510 seconds
+[2021.06.14-22.02.53:574][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Saved/Collections/' took 0.00s
+[2021.06.14-22.02.53:574][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/Developers/andrz/Collections/' took 0.00s
+[2021.06.14-22.02.53:574][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/Collections/' took 0.00s
+[2021.06.14-22.02.53:574][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2021.06.14-22.02.53:584][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2869 classes and 686 folders.
+[2021.06.14-22.02.53:590][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.14-22.02.53:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.14-22.02.53:658][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.06.14-22.02.53:671][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.14-22.02.53:673][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.14-22.02.53:679][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.14-22.02.53:749][  0]LogRenderer: Reallocating scene render targets to support 1208x644 Format 10 NumSamples 1 (Frame:1).
+[2021.06.14-22.02.53:833][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.14-22.02.53:833][  0]LogLoad: (Engine Initialization) Total time: 7.99 seconds
+[2021.06.14-22.02.53:833][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.14-22.02.53:882][  0]LogAssetRegistry: Asset discovery search completed in 4.4907 seconds
+[2021.06.14-22.02.53:886][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2021.06.14-22.02.53:886][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2021.06.14-22.02.53:888][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.14-22.02.53:917][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.14-22.02.56:741][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.14-22.03.00:966][832]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.14-22.03.09:120][801]LogSlate: Window 'Failed Renames' being destroyed
+[2021.06.14-22.03.21:441][271]LogSlate: Window 'Failed Renames' being destroyed
+[2021.06.14-22.03.26:445][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.BP_Block_C' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.BP_Block:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.BP_Block:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.BP_Block:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.BP_Block:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.SKEL_BP_Block_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.SKEL_BP_Block_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.SKEL_BP_Block_C:ReceiveTick' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.SKEL_BP_Block_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:446][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_Block.SKEL_BP_Block_C' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_Block.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock_C' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.SKEL_BP_BrokenBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.SKEL_BP_BrokenBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.SKEL_BP_BrokenBlock_C:ReceiveTick' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.SKEL_BP_BrokenBlock_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:451][865]LogMetaData: Removing '/Game/Blueprints/General/Blocks/BP_BrokenBlock.SKEL_BP_BrokenBlock_C' ref from Metadata '/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock.PackageMetaData'
+[2021.06.14-22.03.26:484][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_Block" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block.uasset" SILENT=true
+[2021.06.14-22.03.26:496][865]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_Block5488E8C042088E858BB1B0B10694D123.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block.uasset'
+[2021.06.14-22.03.26:503][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/Blocks/BP_Block" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/GameMode/Blocks/BP_Block.uasset" SILENT=true
+[2021.06.14-22.03.26:531][865]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BlockC29A13DF44CA17930EE7ECA5E9FC1110.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/GameMode/Blocks/BP_Block.uasset'
+[2021.06.14-22.03.26:546][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_BrokenBlock" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock.uasset" SILENT=true
+[2021.06.14-22.03.26:557][865]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BrokenBlock2749C5834916E7B669BBE2AAAAB7CB00.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock.uasset'
+[2021.06.14-22.03.26:563][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/Blocks/BP_BrokenBlock" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/GameMode/Blocks/BP_BrokenBlock.uasset" SILENT=true
+[2021.06.14-22.03.26:566][865]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BrokenBlock6319583A454DE3928B4BF094441EF0BA.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/GameMode/Blocks/BP_BrokenBlock.uasset'
+[2021.06.14-22.04.17:472][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.06.14-22.04.18:495][900]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.14-22.04.18:680][900]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/General/Blocks/Grass.Grass
+[2021.06.14-22.04.20:613][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.06.14-22.04.20:709][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.06.14-22.04.36:402][747]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_BrokenBlock.BP_BrokenBlock
+[2021.06.14-22.04.36:604][747]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2021.06.14-22.04.38:940][929]LogSlate: Window 'BP_BrokenBlock' being destroyed
+[2021.06.14-22.04.38:953][929]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.04.48:807][ 87]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_Block_Grass.BP_Block_Grass
+[2021.06.14-22.04.49:106][ 87]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2021.06.14-22.04.51:861][395]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.14-22.05.05:425][712]BlueprintLog: New page: Compile BP_Block_Grass
+[2021.06.14-22.05.05:643][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.06.14-22.05.05:912][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_Block_Grass" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Grass.uasset" SILENT=true
+[2021.06.14-22.05.05:927][740]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_Block_Grass79F9997A417A73722A0067AE1105A071.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Grass.uasset'
+[2021.06.14-22.05.06:983][859]LogSlate: Window 'BP_Block_Grass' being destroyed
+[2021.06.14-22.05.06:997][859]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.05.09:287][126]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_Block_Sand.BP_Block_Sand
+[2021.06.14-22.05.16:847][884]BlueprintLog: New page: Compile BP_Block_Sand
+[2021.06.14-22.05.17:058][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.06.14-22.05.17:577][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_Block_Sand" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Sand.uasset" SILENT=true
+[2021.06.14-22.05.17:592][942]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_Block_Sand0A8D5B87480AC669780444916ACDF57D.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Sand.uasset'
+[2021.06.14-22.05.18:157][  5]LogSlate: Window 'BP_Block_Sand' being destroyed
+[2021.06.14-22.05.18:171][  5]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.05.19:517][158]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_Block_Stone.BP_Block_Stone
+[2021.06.14-22.05.31:294][334]BlueprintLog: New page: Compile BP_Block_Stone
+[2021.06.14-22.05.31:501][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.06.14-22.05.31:809][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_Block_Stone" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Stone.uasset" SILENT=true
+[2021.06.14-22.05.31:824][366]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_Block_Stone4BCAC9444ABFE88BCB23D8931808856D.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_Block_Stone.uasset'
+[2021.06.14-22.05.32:772][475]LogSlate: Window 'BP_Block_Stone' being destroyed
+[2021.06.14-22.05.32:785][475]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.05.34:627][689]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_BrokenBlock_Grass.BP_BrokenBlock_Grass
+[2021.06.14-22.05.43:037][571]BlueprintLog: New page: Compile BP_BrokenBlock_Grass
+[2021.06.14-22.05.43:198][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.06.14-22.05.43:490][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_BrokenBlock_Grass" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Grass.uasset" SILENT=true
+[2021.06.14-22.05.43:524][602]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BrokenBlock_Grass454025EC4A998CBC824D888F9C7E57C5.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Grass.uasset'
+[2021.06.14-22.05.44:216][680]LogSlate: Window 'BP_BrokenBlock_Grass' being destroyed
+[2021.06.14-22.05.44:230][680]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.05.45:404][815]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_BrokenBlock_Sand.BP_BrokenBlock_Sand
+[2021.06.14-22.06.13:153][789]BlueprintLog: New page: Compile BP_BrokenBlock_Sand
+[2021.06.14-22.06.13:313][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.06.14-22.06.13:530][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_BrokenBlock_Sand" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Sand.uasset" SILENT=true
+[2021.06.14-22.06.13:544][811]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BrokenBlock_Sand6ABBDEBC444ECB5F3ADBFB837AB32D1B.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Sand.uasset'
+[2021.06.14-22.06.15:012][982]LogSlate: Window 'BP_BrokenBlock_Sand' being destroyed
+[2021.06.14-22.06.15:024][982]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.06.15:843][ 72]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_BrokenBlock_Stone.BP_BrokenBlock_Stone
+[2021.06.14-22.06.24:229][895]BlueprintLog: New page: Compile BP_BrokenBlock_Stone
+[2021.06.14-22.06.24:394][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.06.14-22.06.24:613][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/Blocks/BP_BrokenBlock_Stone" FILE="../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Stone.uasset" SILENT=true
+[2021.06.14-22.06.24:630][917]LogSavePackage: Moving '../../../../../Projects/CubeCraft2_0/Saved/BP_BrokenBlock_StoneA101FD884D41B8D9274C7A9A193292B1.tmp' to '../../../../../Projects/CubeCraft2_0/Content/Blueprints/General/Blocks/BP_BrokenBlock_Stone.uasset'
+[2021.06.14-22.06.25:618][ 29]LogSlate: Window 'BP_BrokenBlock_Stone' being destroyed
+[2021.06.14-22.06.25:633][ 29]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-22.06.26:355][112]LogEditorViewport: Clicking on Actor (LMB): BP_BrokenBlock_C (BP_BrokenBlock)
+[2021.06.14-22.06.27:325][224]Cmd: DELETE
+[2021.06.14-22.06.27:325][224]Cmd: ACTOR DELETE
+[2021.06.14-22.06.27:327][224]LogEditorActor: Deleted Actor: BP_BrokenBlock_C
+[2021.06.14-22.06.27:353][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.06.14-22.06.27:353][224]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.06.14-22.06.27:639][258]LogEditorViewport: Clicking on Actor (LMB): BP_Block_C (BP_Block)
+[2021.06.14-22.06.27:738][266]Cmd: DELETE
+[2021.06.14-22.06.27:738][266]Cmd: ACTOR DELETE
+[2021.06.14-22.06.27:739][266]LogEditorActor: Deleted Actor: BP_Block_C
+[2021.06.14-22.06.27:767][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.14-22.06.27:767][266]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.06.14-22.06.28:846][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.14-22.06.35:031][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.14-22.06.37:581][369]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.06.14-22.06.37:702][369]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.06.14-22.06.37:738][370]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.06.14-22.06.40:250][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.14-22.06.40:308][669]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.14-22.06.40:316][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.14-22.06.40:316][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.14-22.06.40:316][669]PIE: New page: PIE session: Main (15 Jun 2021 02:06:40)
+[2021.06.14-22.06.40:317][669]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.14-22.06.40:318][669]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.14-22.06.40:356][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037275s)
+[2021.06.14-22.06.40:357][669]LogAIModule: Creating AISystem for world Main
+[2021.06.14-22.06.40:357][669]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.06.14-22.06.40:357][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.038411s)
+[2021.06.14-22.06.40:383][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.06.14-22.06.40:425][669]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.14-22.06.40:481][669]LogInit: FAudioDevice initialized.
+[2021.06.14-22.06.40:577][669]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.14-22.06.40:579][669]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.15-00.06.40
+[2021.06.14-22.06.40:579][669]LogWorld: Bringing up level for play took: 0.001221
+[2021.06.14-22.06.40:580][669]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.14-22.06.40:584][669]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.06.14-22.06.40:586][669]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.469
+[2021.06.14-22.06.40:586][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.14-22.06.44:448][103]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.14-22.06.44:449][103]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)

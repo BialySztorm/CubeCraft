@@ -1,0 +1,1334 @@
+﻿Log file open, 06/18/21 20:31:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CubeCraft2_0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.087279
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.18-18.31.40:164][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.18-18.31.40:164][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.18-18.31.40:164][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:164][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.18-18.31.40:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:165][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:170][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.18-18.31.40:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.18-18.31.40:171][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.18-18.31.40:171][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.18-18.31.40:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.18-18.31.40:175][  0]LogHAL: Display: Platform has ~ 16 GB [17134776320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.18-18.31.40:175][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.18-18.31.40:175][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:175][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.18-18.31.40:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Scalability.ini]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.18-18.31.40:177][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/CubeCraft2_0/Saved/Config/Windows/Engine.ini]
+[2021.06.18-18.31.40:178][  0]LogInit: Computer: WHITESTORMPC
+[2021.06.18-18.31.40:178][  0]LogInit: User: andrz
+[2021.06.18-18.31.40:178][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.18-18.31.40:178][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.18-18.31.40:178][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.06.18-18.31.40:178][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.18-18.31.40:178][  0]LogMemory: Process Physical Memory: 105.51 MB used, 105.51 MB peak
+[2021.06.18-18.31.40:178][  0]LogMemory: Process Virtual Memory: 104.54 MB used, 104.54 MB peak
+[2021.06.18-18.31.40:178][  0]LogMemory: Physical Memory: 10120.36 MB used,  6220.64 MB free, 16341.00 MB total
+[2021.06.18-18.31.40:178][  0]LogMemory: Virtual Memory: 4692.75 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2021.06.18-18.31.40:181][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.18-18.31.40:221][  0]LogInit: Using OS detected language (pl-PL).
+[2021.06.18-18.31.40:221][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.18-18.31.40:222][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.06.18-18.31.40:222][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.06.18-18.31.40:222][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.06.18-18.31.40:222][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.06.18-18.31.40:222][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.06.18-18.31.40:223][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.06.18-18.31.40:223][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.06.18-18.31.40:223][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.06.18-18.31.40:223][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.18-18.31.40:258][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.18-18.31.40:259][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.18-18.31.40:483][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.06.18-18.31.40:483][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.18-18.31.40:591][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.06.18-18.31.40:591][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.18-18.31.40:594][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.18-18.31.40:594][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.18-18.31.40:594][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.18-18.31.40:604][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.18-18.31.40:604][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.18-18.31.40:604][  0]LogWindows: EnumDisplayDevices:
+[2021.06.18-18.31.40:604][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.06.18-18.31.40:605][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.06.18-18.31.40:605][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.06.18-18.31.40:605][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.06.18-18.31.40:605][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.18-18.31.40:605][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.06.18-18.31.40:605][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.18-18.31.40:605][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.18-18.31.40:605][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.06.18-18.31.40:692][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.18-18.31.40:724][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.18-18.31.41:051][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.06.18-18.31.41:058][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.06.18-18.31.41:068][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.06.18-18.31.41:075][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.06.18-18.31.41:084][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.06.18-18.31.41:093][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.06.18-18.31.41:104][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.18-18.31.41:116][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.06.18-18.31.41:120][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.06.18-18.31.41:158][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.06.18-18.31.41:161][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.06.18-18.31.41:181][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.06.18-18.31.41:181][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.06.18-18.31.41:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.06.18-18.31.41:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.06.18-18.31.41:206][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.06.18-18.31.41:215][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.18-18.31.41:223][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.06.18-18.31.41:233][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.06.18-18.31.41:262][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.06.18-18.31.41:262][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.06.18-18.31.41:262][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.18-18.31.41:271][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.18-18.31.41:320][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Projects/CubeCraft2_0/Intermediate/Shaders/WorkingDirectory/3504/).
+[2021.06.18-18.31.41:320][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andrz/AppData/Local/Temp/UnrealShaderWorkingDir/C6A1B682427FC24B38A9A3A85A9CB379/'.
+[2021.06.18-18.31.41:322][  0]LogXGEController: Cleaning working directory: C:/Users/andrz/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.18-18.31.41:322][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2021.06.18-18.31.42:083][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.18-18.31.42:134][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.06.18-18.31.42:134][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.06.18-18.31.42:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/CubeCraft2_0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.18-18.31.42:135][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.18-18.31.42:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/CubeCraft2_0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.18-18.31.42:135][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.18-18.31.42:146][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.18-18.31.42:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.18-18.31.42:146][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.18-18.31.42:148][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andrz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.18-18.31.42:148][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.18-18.31.42:148][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.18-18.31.42:175][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.18-18.31.42:179][  0]LogSlate: Using FreeType 2.6.0
+[2021.06.18-18.31.42:180][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.18-18.31.42:254][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.06.18-18.31.42:581][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.18-18.31.42:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.18-18.31.42:743][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.18-18.31.42:743][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.18-18.31.42:743][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.18-18.31.42:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.18-18.31.42:753][  0]LogNetVersion: CubeCraft2_0 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 447841499)
+[2021.06.18-18.31.43:258][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.049953 seconds
+[2021.06.18-18.31.43:267][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2021.06.18-18.31.43:267][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2021.06.18-18.31.43:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.18-18.31.44:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.18-18.31.44:260][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.18-18.31.44:320][  0]SourceControl: Source control is disabled
+[2021.06.18-18.31.44:320][  0]SourceControl: Source control is disabled
+[2021.06.18-18.31.44:322][  0]SourceControl: Source control is disabled
+[2021.06.18-18.31.44:323][  0]SourceControl: Source control is disabled
+[2021.06.18-18.31.44:431][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.18-18.31.44:762][  0]LogOcInput: OculusInput pre-init called
+[2021.06.18-18.31.45:555][  0]LogEngine: Initializing Engine...
+[2021.06.18-18.31.45:556][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.06.18-18.31.45:557][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.18-18.31.45:784][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.18-18.31.45:795][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.18-18.31.45:866][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.31.45:935][  0]LogInit: FAudioDevice initialized.
+[2021.06.18-18.31.45:936][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.18-18.31.46:088][  0]LogDerivedDataCache: Saved boot cache 0.15s 76MB C:/Users/andrz/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.06.18-18.31.46:091][  0]LogInit: Texture streaming: Enabled
+[2021.06.18-18.31.46:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.18-18.31.46:111][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={C11E0931-4E7C-8598-2911-D19B7C8B1CC9}
+[2021.06.18-18.31.46:111][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.18-18.31.46:114][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.18-18.31.46:170][  0]LogInit: Transaction tracking system initialized
+[2021.06.18-18.31.46:199][  0]BlueprintLog: New page: Editor Load
+[2021.06.18-18.31.46:263][  0]LocalizationService: Localization service is disabled
+[2021.06.18-18.31.46:510][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/' took 0.00s
+[2021.06.18-18.31.46:510][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.18-18.31.46:510][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.18-18.31.46:705][  0]SourceControl: Source control is disabled
+[2021.06.18-18.31.46:705][  0]Cmd: MAP LOAD FILE="../../../../../Projects/CubeCraft2_0/Content/Assets/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.18-18.31.46:705][  0]LightingResults: New page: Lighting Build
+[2021.06.18-18.31.46:707][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.31.46:707][  0]MapCheck: New page: Map Check
+[2021.06.18-18.31.46:707][  0]LightingResults: New page: Lighting Build
+[2021.06.18-18.31.46:730][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.18-18.31.46:957][  0]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.31.46:982][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.18-18.31.47:005][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.18-18.31.47:006][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.18-18.31.47:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2021.06.18-18.31.47:006][  0]LogFileHelpers: Loading map 'Main' took 0.301
+[2021.06.18-18.31.47:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.31.47:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.31.47:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.31.47:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.31.47:140][  0]LogCollectionManager: Loaded 0 collections in 0.001987 seconds
+[2021.06.18-18.31.47:148][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Saved/Collections/' took 0.00s
+[2021.06.18-18.31.47:148][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/Developers/andrz/Collections/' took 0.00s
+[2021.06.18-18.31.47:148][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/CubeCraft2_0/Content/Collections/' took 0.00s
+[2021.06.18-18.31.47:148][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2021.06.18-18.31.47:160][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2870 classes and 686 folders.
+[2021.06.18-18.31.47:166][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.06.18-18.31.47:223][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.18-18.31.47:230][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2021.06.18-18.31.47:248][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.18-18.31.47:251][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.18-18.31.47:257][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.18-18.31.47:328][  0]LogRenderer: Reallocating scene render targets to support 1208x644 Format 10 NumSamples 1 (Frame:1).
+[2021.06.18-18.31.47:407][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.18-18.31.47:407][  0]LogLoad: (Engine Initialization) Total time: 9.27 seconds
+[2021.06.18-18.31.47:407][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.18-18.31.47:457][  0]LogAssetRegistry: Asset discovery search completed in 5.2032 seconds
+[2021.06.18-18.31.47:461][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2021.06.18-18.31.47:461][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2021.06.18-18.31.47:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.18-18.31.47:485][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.18-18.33.15:449][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.33.15:520][403]Candidate modules for hot reload:
+[2021.06.18-18.33.15:520][403]  CubeCraft2_0
+[2021.06.18-18.33.15:520][403]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,2789 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.33.15:523][403]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.33.28:498][574]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:33:28
+[2021.06.18-18.33.28:498][574]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.6587792 seconds
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: License is invalid:
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: 
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Picker.cpp (0:03.40 at +0:00)
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: UE4Editor-CubeCraft2_0-2789.dll (0:00.76 at +0:03)
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2789.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2789.suppressed.exp
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: UE4Editor-CubeCraft2_0-2789.lib (0:00.12 at +0:04)
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2789.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2789.exp
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.20 at +0:04)
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: 
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: 
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.33.28:499][574]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: 
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Total time in XGE executor: 4.88 seconds
+[2021.06.18-18.33.28:499][574]CompilerResultsLog: Total execution time: 12.75 seconds
+[2021.06.18-18.33.28:499][574]LogMainFrame: MainFrame: Module compiling took 12.983 seconds
+[2021.06.18-18.33.28:518][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.18-18.33.28:575][574]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0007 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.33.28:580][574]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.33.28:684][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.18-18.33.28:704][574]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.33.28:716][574]Display: HotReload took 13.2s.
+[2021.06.18-18.33.30:492][579]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.33.30:510][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.33.30:510][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.33.30:510][579]PIE: New page: PIE session: Main (18 Jun 2021 22:33:30)
+[2021.06.18-18.33.30:511][579]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.18-18.33.30:513][579]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.33.30:570][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056369s)
+[2021.06.18-18.33.30:571][579]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.33.30:571][579]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2021.06.18-18.33.30:571][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.057821s)
+[2021.06.18-18.33.30:592][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.06.18-18.33.30:646][579]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.33.30:860][579]LogInit: FAudioDevice initialized.
+[2021.06.18-18.33.31:047][579]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.33.31:050][579]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.33.31
+[2021.06.18-18.33.31:050][579]LogWorld: Bringing up level for play took: 0.002168
+[2021.06.18-18.33.31:050][579]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.06.18-18.33.31:086][579]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.06.18-18.33.31:089][579]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main -0.009
+[2021.06.18-18.33.31:089][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.33.46:860][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.33.46:860][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.33.46:860][413]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.33.46:861][413]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.33.46:870][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.33.46:871][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.33.46:900][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.33.46:906][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.06.18-18.33.46:963][418]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.06.18-18.34.31:783][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.34.48:199][ 18]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.18-18.34.48:206][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/General/Blocks/BP_Block_Child3.BP_Block_Child3
+[2021.06.18-18.34.48:635][ 18]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2021.06.18-18.34.51:471][227]LogSlate: Window 'BP_Block_Child3' being destroyed
+[2021.06.18-18.34.51:489][227]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.39.32:318][145]Candidate modules for hot reload:
+[2021.06.18-18.39.32:318][145]  CubeCraft2_0
+[2021.06.18-18.39.32:318][145]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,2410 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.39.32:321][145]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:39:45
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.39.45:650][441]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 5.7852261 seconds
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: License is invalid:
+[2021.06.18-18.39.45:650][441]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.39.45:650][441]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: 
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: Picker.cpp (0:04.87 at +0:00)
+[2021.06.18-18.39.45:650][441]CompilerResultsLog: UE4Editor-CubeCraft2_0-2410.dll (0:00.75 at +0:04)
+[2021.06.18-18.39.45:650][441]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2410.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2410.suppressed.exp
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: UE4Editor-CubeCraft2_0-2410.lib (0:00.10 at +0:05)
+[2021.06.18-18.39.45:651][441]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2410.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2410.exp
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.20 at +0:05)
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: 
+[2021.06.18-18.39.45:651][441]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: 
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.39.45:651][441]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: 
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: Total time in XGE executor: 6.25 seconds
+[2021.06.18-18.39.45:651][441]CompilerResultsLog: Total execution time: 13.19 seconds
+[2021.06.18-18.39.45:651][441]LogMainFrame: MainFrame: Module compiling took 13.338 seconds
+[2021.06.18-18.39.45:687][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.18-18.39.45:745][441]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0006 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.39.45:751][441]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.39.45:830][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.06.18-18.39.45:849][441]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.39.45:849][441]Display: HotReload took 13.5s.
+[2021.06.18-18.39.48:110][540]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.39.48:128][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.39.48:128][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.39.48:128][540]PIE: New page: PIE session: Main (18 Jun 2021 22:39:48)
+[2021.06.18-18.39.48:128][540]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.39.48:180][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051436s)
+[2021.06.18-18.39.48:181][540]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.39.48:181][540]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.06.18-18.39.48:181][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052721s)
+[2021.06.18-18.39.48:256][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.06.18-18.39.48:306][540]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.39.48:365][540]LogInit: FAudioDevice initialized.
+[2021.06.18-18.39.48:369][540]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.39.48:372][540]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.39.48
+[2021.06.18-18.39.48:372][540]LogWorld: Bringing up level for play took: 0.001878
+[2021.06.18-18.39.48:372][540]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.18-18.39.48:375][540]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main -0.723
+[2021.06.18-18.39.48:375][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.39.51:229][881]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.39.55:825][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.39.55:825][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.39.55:825][432]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.39.55:825][432]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.39.55:832][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.39.55:832][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.39.55:863][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.39.55:887][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.06.18-18.39.55:924][435]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.18-18.39.57:383][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.39.57:466][620]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.39.57:481][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.39.57:482][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.39.57:482][620]PIE: New page: PIE session: Main (18 Jun 2021 22:39:57)
+[2021.06.18-18.39.57:482][620]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.39.57:533][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051469s)
+[2021.06.18-18.39.57:534][620]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.39.57:534][620]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.06.18-18.39.57:534][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052642s)
+[2021.06.18-18.39.57:558][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.06.18-18.39.57:608][620]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.39.57:667][620]LogInit: FAudioDevice initialized.
+[2021.06.18-18.39.57:674][620]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.39.57:676][620]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.39.57
+[2021.06.18-18.39.57:676][620]LogWorld: Bringing up level for play took: 0.001849
+[2021.06.18-18.39.57:677][620]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.18-18.39.57:679][620]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.581
+[2021.06.18-18.39.57:679][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.40.00:919][  6]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.40.10:495][155]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.40.16:262][847]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.40.18:846][157]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.40.19:721][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.40.19:722][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.40.19:722][262]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.40.19:722][262]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.40.19:732][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.40.19:732][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.40.19:762][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.40.19:768][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.18-18.40.19:827][268]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.18-18.41.05:357][556]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.06.18-18.41.07:533][775]Candidate modules for hot reload:
+[2021.06.18-18.41.07:533][775]  CubeCraft2_0
+[2021.06.18-18.41.07:534][775]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,2336 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.41.07:537][775]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:41:18
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.41.18:749][106]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.7148809 seconds
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: License is invalid:
+[2021.06.18-18.41.18:749][106]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.41.18:749][106]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: 
+[2021.06.18-18.41.18:749][106]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: Picker.cpp (0:01.10 at +0:00)
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: UE4Editor-CubeCraft2_0-2336.dll (0:00.78 at +0:01)
+[2021.06.18-18.41.18:750][106]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2336.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2336.suppressed.exp
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: UE4Editor-CubeCraft2_0-2336.lib (0:00.17 at +0:01)
+[2021.06.18-18.41.18:750][106]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2336.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2336.exp
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.89 at +0:02)
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: 
+[2021.06.18-18.41.18:750][106]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: 
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.41.18:750][106]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: 
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: Total time in XGE executor: 3.26 seconds
+[2021.06.18-18.41.18:750][106]CompilerResultsLog: Total execution time: 11.12 seconds
+[2021.06.18-18.41.18:750][106]LogMainFrame: MainFrame: Module compiling took 11.221 seconds
+[2021.06.18-18.41.18:777][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.06.18-18.41.18:834][106]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.41.18:839][106]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.41.18:921][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.18-18.41.18:939][106]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.41.18:940][106]Display: HotReload took 11.4s.
+[2021.06.18-18.41.25:669][876]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.41.25:687][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.41.25:687][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.41.25:688][876]PIE: New page: PIE session: Main (18 Jun 2021 22:41:25)
+[2021.06.18-18.41.25:688][876]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.41.25:738][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050884s)
+[2021.06.18-18.41.25:739][876]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.41.25:739][876]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.06.18-18.41.25:739][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052156s)
+[2021.06.18-18.41.25:809][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.18-18.41.25:859][876]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.41.25:918][876]LogInit: FAudioDevice initialized.
+[2021.06.18-18.41.25:923][876]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.41.25:926][876]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.41.25
+[2021.06.18-18.41.25:926][876]LogWorld: Bringing up level for play took: 0.002441
+[2021.06.18-18.41.25:926][876]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.18-18.41.25:929][876]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.831
+[2021.06.18-18.41.25:929][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.41.29:616][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.41.31:233][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.41.31:234][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.41.31:234][511]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.41.31:234][511]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.41.31:243][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.41.31:243][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.41.31:271][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.41.31:292][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.18-18.41.31:338][515]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.18-18.41.48:362][794]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={C11E0931-4E7C-8598-2911-D19B7C8B1CC9}
+[2021.06.18-18.42.02:274][836]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.06.18-18.42.02:985][879]Candidate modules for hot reload:
+[2021.06.18-18.42.02:985][879]  CubeCraft2_0
+[2021.06.18-18.42.02:985][879]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,8796 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.42.02:988][879]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:42:16
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.42.16:108][439]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.6950893 seconds
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.42.16:108][439]CompilerResultsLog: License is invalid:
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: 
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: Picker.cpp (0:03.51 at +0:00)
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: UE4Editor-CubeCraft2_0-8796.dll (0:00.79 at +0:03)
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8796.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8796.suppressed.exp
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: UE4Editor-CubeCraft2_0-8796.lib (0:00.14 at +0:04)
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8796.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8796.exp
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.32 at +0:04)
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: 
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: 
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.42.16:109][439]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: 
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: Total time in XGE executor: 5.16 seconds
+[2021.06.18-18.42.16:109][439]CompilerResultsLog: Total execution time: 13.02 seconds
+[2021.06.18-18.42.16:109][439]LogMainFrame: MainFrame: Module compiling took 13.128 seconds
+[2021.06.18-18.42.16:133][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.06.18-18.42.16:188][439]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.42.16:193][439]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.42.16:271][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.06.18-18.42.16:289][439]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.42.16:289][439]Display: HotReload took 13.3s.
+[2021.06.18-18.42.18:022][612]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.42.18:039][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.42.18:040][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.42.18:040][612]PIE: New page: PIE session: Main (18 Jun 2021 22:42:18)
+[2021.06.18-18.42.18:040][612]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.42.18:090][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050461s)
+[2021.06.18-18.42.18:091][612]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.42.18:091][612]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2021.06.18-18.42.18:091][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.051566s)
+[2021.06.18-18.42.18:159][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.06.18-18.42.18:208][612]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.42.18:266][612]LogInit: FAudioDevice initialized.
+[2021.06.18-18.42.18:275][612]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.42.18:278][612]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.42.18
+[2021.06.18-18.42.18:278][612]LogWorld: Bringing up level for play took: 0.001790
+[2021.06.18-18.42.18:278][612]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.18-18.42.18:280][612]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 1.184
+[2021.06.18-18.42.18:281][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.42.21:656][ 13]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.42.22:867][158]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.42.23:578][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.42.23:578][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.42.23:578][243]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.42.23:578][243]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.42.23:587][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.42.23:587][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.42.23:620][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.42.23:644][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.06.18-18.42.23:680][245]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.18-18.43.15:535][523]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.06.18-18.43.16:399][595]Candidate modules for hot reload:
+[2021.06.18-18.43.16:399][595]  CubeCraft2_0
+[2021.06.18-18.43.16:399][595]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,2817 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.43.16:402][595]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:43:25
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.0808179 seconds
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.43.25:912][ 97]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: License is invalid:
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: 
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: Picker.cpp (0:00.87 at +0:00)
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: UE4Editor-CubeCraft2_0-2817.dll (0:00.62 at +0:00)
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2817.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2817.suppressed.exp
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: UE4Editor-CubeCraft2_0-2817.lib (0:00.09 at +0:01)
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2817.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-2817.exp
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.17 at +0:01)
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: 
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: 
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: 
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: Total time in XGE executor: 2.01 seconds
+[2021.06.18-18.43.25:913][ 97]CompilerResultsLog: Total execution time: 9.22 seconds
+[2021.06.18-18.43.25:914][ 97]LogMainFrame: MainFrame: Module compiling took 9.519 seconds
+[2021.06.18-18.43.25:940][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.06.18-18.43.25:980][ 97]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.43.25:984][ 97]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.43.26:056][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.18-18.43.26:069][ 97]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.43.26:069][ 97]Display: HotReload took  9.7s.
+[2021.06.18-18.43.27:323][149]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.43.27:340][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.43.27:340][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.43.27:341][149]PIE: New page: PIE session: Main (18 Jun 2021 22:43:27)
+[2021.06.18-18.43.27:341][149]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.43.27:391][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050382s)
+[2021.06.18-18.43.27:392][149]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.43.27:392][149]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2021.06.18-18.43.27:392][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.051540s)
+[2021.06.18-18.43.27:461][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.06.18-18.43.27:511][149]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.43.27:720][149]LogInit: FAudioDevice initialized.
+[2021.06.18-18.43.27:729][149]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.43.27:731][149]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.43.27
+[2021.06.18-18.43.27:732][149]LogWorld: Bringing up level for play took: 0.001832
+[2021.06.18-18.43.27:732][149]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.18-18.43.27:734][149]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.637
+[2021.06.18-18.43.27:734][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.43.30:472][476]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.43.32:847][756]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.43.38:579][444]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.43.40:496][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.43.40:496][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.43.40:496][674]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.43.40:497][674]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.43.40:501][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.43.40:502][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.43.40:530][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.43.40:535][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.06.18-18.43.40:603][681]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.18-18.44.39:761][  1]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.06.18-18.44.50:824][865]Candidate modules for hot reload:
+[2021.06.18-18.44.50:824][865]  CubeCraft2_0
+[2021.06.18-18.44.50:824][865]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,1679 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.44.50:828][865]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.45.00:761][ 46]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:45:00
+[2021.06.18-18.45.00:761][ 46]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.2788742 seconds
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: License is invalid:
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: 
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: Picker.cpp (0:01.04 at +0:00)
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: UE4Editor-CubeCraft2_0-1679.dll (0:00.70 at +0:01)
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-1679.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-1679.suppressed.exp
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: UE4Editor-CubeCraft2_0-1679.lib (0:00.10 at +0:01)
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-1679.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-1679.exp
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.20 at +0:01)
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: 
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: 
+[2021.06.18-18.45.00:762][ 46]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.45.00:763][ 46]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.45.00:763][ 46]CompilerResultsLog: 
+[2021.06.18-18.45.00:763][ 46]CompilerResultsLog: Total time in XGE executor: 2.44 seconds
+[2021.06.18-18.45.00:763][ 46]CompilerResultsLog: Total execution time: 9.84 seconds
+[2021.06.18-18.45.00:763][ 46]LogMainFrame: MainFrame: Module compiling took 9.942 seconds
+[2021.06.18-18.45.00:786][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.06.18-18.45.00:826][ 46]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.45.00:831][ 46]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.45.00:902][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.06.18-18.45.00:916][ 46]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.45.00:916][ 46]Display: HotReload took 10.1s.
+[2021.06.18-18.45.03:275][302]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.45.03:292][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.45.03:292][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.45.03:292][302]PIE: New page: PIE session: Main (18 Jun 2021 22:45:03)
+[2021.06.18-18.45.03:293][302]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.45.03:343][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050649s)
+[2021.06.18-18.45.03:344][302]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.45.03:344][302]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2021.06.18-18.45.03:344][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.051851s)
+[2021.06.18-18.45.03:410][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.06.18-18.45.03:460][302]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.45.03:658][302]LogInit: FAudioDevice initialized.
+[2021.06.18-18.45.03:665][302]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.45.03:667][302]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.45.03
+[2021.06.18-18.45.03:667][302]LogWorld: Bringing up level for play took: 0.001845
+[2021.06.18-18.45.03:668][302]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.18-18.45.03:670][302]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.573
+[2021.06.18-18.45.03:670][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.45.06:199][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.45.08:384][865]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.45.10:882][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.45.10:883][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.45.10:883][165]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.45.10:883][165]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.45.10:889][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.45.10:889][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.45.10:919][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.45.10:940][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.06.18-18.45.10:986][169]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.18-18.45.26:508][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.45.26:559][ 31]LogSlate: Took 0.049038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.18-18.46.02:923][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.18-18.46.14:169][806]LogSlate: Took 0.013431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.18-18.46.18:131][194]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.06.18-18.46.18:145][194]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.06.18-18.46.18:993][294]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.18-18.46.20:485][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.46.43:745][544]Candidate modules for hot reload:
+[2021.06.18-18.46.43:746][544]  CubeCraft2_0
+[2021.06.18-18.46.43:746][544]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,8935 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.46.43:749][544]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.46.54:268][789]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:46:54
+[2021.06.18-18.46.54:268][789]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.46.54:268][789]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.46.54:269][789]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.4409653 seconds
+[2021.06.18-18.46.54:269][789]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.46.54:269][789]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.46.54:269][789]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.46.54:269][789]CompilerResultsLog: License is invalid:
+[2021.06.18-18.46.54:269][789]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.46.54:270][789]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.46.54:270][789]CompilerResultsLog: 
+[2021.06.18-18.46.54:270][789]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.46.54:270][789]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.46.54:270][789]CompilerResultsLog: Picker.cpp (0:01.43 at +0:00)
+[2021.06.18-18.46.54:271][789]CompilerResultsLog: UE4Editor-CubeCraft2_0-8935.dll (0:00.76 at +0:01)
+[2021.06.18-18.46.54:271][789]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8935.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8935.suppressed.exp
+[2021.06.18-18.46.54:271][789]CompilerResultsLog: UE4Editor-CubeCraft2_0-8935.lib (0:00.14 at +0:02)
+[2021.06.18-18.46.54:271][789]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8935.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8935.exp
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.20 at +0:02)
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: 
+[2021.06.18-18.46.54:272][789]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: 
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.46.54:272][789]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: 
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: Total time in XGE executor: 2.84 seconds
+[2021.06.18-18.46.54:272][789]CompilerResultsLog: Total execution time: 10.43 seconds
+[2021.06.18-18.46.54:272][789]LogMainFrame: MainFrame: Module compiling took 10.530 seconds
+[2021.06.18-18.46.54:296][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.18-18.46.54:336][789]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.46.54:340][789]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.46.54:407][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.18-18.46.54:421][789]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.46.54:421][789]Display: HotReload took 10.7s.
+[2021.06.18-18.46.55:858][933]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.46.55:875][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.46.55:875][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.46.55:875][933]PIE: New page: PIE session: Main (18 Jun 2021 22:46:55)
+[2021.06.18-18.46.55:875][933]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.46.55:926][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051167s)
+[2021.06.18-18.46.55:927][933]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.46.55:927][933]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2021.06.18-18.46.55:927][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052750s)
+[2021.06.18-18.46.55:993][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.06.18-18.46.56:043][933]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.46.56:253][933]LogInit: FAudioDevice initialized.
+[2021.06.18-18.46.56:262][933]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.46.56:264][933]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.46.56
+[2021.06.18-18.46.56:265][933]LogWorld: Bringing up level for play took: 0.001948
+[2021.06.18-18.46.56:265][933]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.18-18.46.56:268][933]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 1.17
+[2021.06.18-18.46.56:268][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.46.59:254][290]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.47.02:733][707]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.47.03:733][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.03:734][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.47.03:734][827]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.47.03:734][827]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.47.03:741][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.47.03:742][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.03:777][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.47.03:794][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.06.18-18.47.03:833][830]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.18-18.47.04:796][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.47.10:080][578]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.47.10:093][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.10:093][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.47.10:093][578]PIE: New page: PIE session: Main (18 Jun 2021 22:47:10)
+[2021.06.18-18.47.10:094][578]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.47.10:133][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039531s)
+[2021.06.18-18.47.10:134][578]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.47.10:134][578]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.06.18-18.47.10:134][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.040777s)
+[2021.06.18-18.47.10:160][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.18-18.47.10:203][578]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.47.10:258][578]LogInit: FAudioDevice initialized.
+[2021.06.18-18.47.10:263][578]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.47.10:266][578]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.47.10
+[2021.06.18-18.47.10:266][578]LogWorld: Bringing up level for play took: 0.002043
+[2021.06.18-18.47.10:267][578]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.18-18.47.10:269][578]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 1.171
+[2021.06.18-18.47.10:269][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.14:498][ 83]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.47.17:022][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.47.17:707][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.17:707][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.47.17:707][468]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.47.17:708][468]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.47.17:714][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.47.17:714][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.47.17:745][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.47.17:750][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.06.18-18.47.17:808][474]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.18-18.49.14:376][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.49.14:453][451]Candidate modules for hot reload:
+[2021.06.18-18.49.14:453][451]  CubeCraft2_0
+[2021.06.18-18.49.14:453][451]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,8673 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.49.14:456][451]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.49.26:745][524]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:49:26
+[2021.06.18-18.49.26:746][524]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.49.26:746][524]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.49.26:746][524]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.291195 seconds
+[2021.06.18-18.49.26:746][524]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: License is invalid:
+[2021.06.18-18.49.26:747][524]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.49.26:747][524]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: 
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.49.26:747][524]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.49.26:748][524]CompilerResultsLog: Picker.cpp (0:03.25 at +0:00)
+[2021.06.18-18.49.26:748][524]CompilerResultsLog: UE4Editor-CubeCraft2_0-8673.dll (0:00.64 at +0:03)
+[2021.06.18-18.49.26:748][524]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8673.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8673.suppressed.exp
+[2021.06.18-18.49.26:748][524]CompilerResultsLog: UE4Editor-CubeCraft2_0-8673.lib (0:00.12 at +0:03)
+[2021.06.18-18.49.26:748][524]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8673.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-8673.exp
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.18 at +0:04)
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: 
+[2021.06.18-18.49.26:749][524]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: 
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.49.26:749][524]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: 
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: Total time in XGE executor: 4.56 seconds
+[2021.06.18-18.49.26:749][524]CompilerResultsLog: Total execution time: 11.98 seconds
+[2021.06.18-18.49.26:749][524]LogMainFrame: MainFrame: Module compiling took 12.300 seconds
+[2021.06.18-18.49.26:774][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.06.18-18.49.26:834][524]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0006 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.49.26:840][524]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.49.26:918][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.06.18-18.49.26:934][524]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.49.26:935][524]Display: HotReload took 12.5s.
+[2021.06.18-18.49.28:683][600]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.49.28:700][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.49.28:700][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.49.28:700][600]PIE: New page: PIE session: Main (18 Jun 2021 22:49:28)
+[2021.06.18-18.49.28:700][600]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.49.28:752][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051055s)
+[2021.06.18-18.49.28:753][600]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.49.28:753][600]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2021.06.18-18.49.28:753][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052609s)
+[2021.06.18-18.49.28:826][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.06.18-18.49.28:876][600]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.49.29:081][600]LogInit: FAudioDevice initialized.
+[2021.06.18-18.49.29:091][600]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.49.29:093][600]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.49.29
+[2021.06.18-18.49.29:094][600]LogWorld: Bringing up level for play took: 0.002008
+[2021.06.18-18.49.29:094][600]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.18-18.49.29:097][600]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main -0.001
+[2021.06.18-18.49.29:097][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.49.32:041][952]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.49.32:557][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.49.32:557][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.49.32:557][ 14]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.49.32:558][ 14]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.49.32:565][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.49.32:566][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.49.32:593][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.49.32:614][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.06.18-18.49.32:662][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.18-18.49.49:309][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-18.49.49:393][339]Candidate modules for hot reload:
+[2021.06.18-18.49.49:393][339]  CubeCraft2_0
+[2021.06.18-18.49.49:394][339]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,3608 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-18.49.49:397][339]Warning: Starting HotReload took  0.0s.
+[2021.06.18-18.50.00:313][636]CompilerResultsLog: New page: Compilation - 18 Jun 2021 22:50:00
+[2021.06.18-18.50.00:313][636]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-18.50.00:313][636]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-18.50.00:313][636]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 6.418224 seconds
+[2021.06.18-18.50.00:313][636]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-18.50.00:314][636]CompilerResultsLog: Distributing 4 actions to XGE
+[2021.06.18-18.50.00:314][636]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-18.50.00:314][636]CompilerResultsLog: License is invalid:
+[2021.06.18-18.50.00:314][636]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-18.50.00:314][636]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-18.50.00:314][636]CompilerResultsLog: 
+[2021.06.18-18.50.00:314][636]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: Picker.cpp (0:01.68 at +0:00)
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: UE4Editor-CubeCraft2_0-3608.dll (0:00.76 at +0:01)
+[2021.06.18-18.50.00:315][636]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-3608.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-3608.suppressed.exp
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: UE4Editor-CubeCraft2_0-3608.lib (0:00.25 at +0:02)
+[2021.06.18-18.50.00:315][636]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-3608.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-3608.exp
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.18 at +0:02)
+[2021.06.18-18.50.00:315][636]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: 
+[2021.06.18-18.50.00:316][636]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: 
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-18.50.00:316][636]CompilerResultsLog:    - License is invalid
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: 
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: Total time in XGE executor: 3.24 seconds
+[2021.06.18-18.50.00:316][636]CompilerResultsLog: Total execution time: 10.82 seconds
+[2021.06.18-18.50.00:316][636]LogMainFrame: MainFrame: Module compiling took 10.926 seconds
+[2021.06.18-18.50.00:342][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.18-18.50.00:378][636]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0005 seconds. Added 7 classes and 6 folders.
+[2021.06.18-18.50.00:382][636]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-18.50.00:452][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.06.18-18.50.00:466][636]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-18.50.00:466][636]Display: HotReload took 11.1s.
+[2021.06.18-18.50.02:389][840]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-18.50.02:406][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.50.02:406][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-18.50.02:407][840]PIE: New page: PIE session: Main (18 Jun 2021 22:50:02)
+[2021.06.18-18.50.02:407][840]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.50.02:458][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051137s)
+[2021.06.18-18.50.02:459][840]LogAIModule: Creating AISystem for world Main
+[2021.06.18-18.50.02:460][840]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.06.18-18.50.02:460][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.052891s)
+[2021.06.18-18.50.02:529][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.18-18.50.02:579][840]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-18.50.02:637][840]LogInit: FAudioDevice initialized.
+[2021.06.18-18.50.02:647][840]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-18.50.02:649][840]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-20.50.02
+[2021.06.18-18.50.02:650][840]LogWorld: Bringing up level for play took: 0.001934
+[2021.06.18-18.50.02:650][840]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.18-18.50.02:653][840]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main -0.445
+[2021.06.18-18.50.02:653][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.50.06:056][247]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.18-18.50.06:888][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.50.06:889][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.50.06:889][347]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-18.50.06:889][347]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-18.50.06:895][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-18.50.06:896][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-18.50.06:927][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-18.50.06:946][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.06.18-18.50.06:993][351]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.18-19.36.03:122][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.18-19.39.33:303][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-19.39.33:312][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.39.33:314][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-19.39.33:314][424]PIE: New page: PIE session: Main (18 Jun 2021 23:39:33)
+[2021.06.18-19.39.33:314][424]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-19.39.33:353][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040172s)
+[2021.06.18-19.39.33:354][424]LogAIModule: Creating AISystem for world Main
+[2021.06.18-19.39.33:354][424]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2021.06.18-19.39.33:355][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.041612s)
+[2021.06.18-19.39.33:379][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.18-19.39.33:422][424]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-19.39.33:624][424]LogInit: FAudioDevice initialized.
+[2021.06.18-19.39.33:630][424]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-19.39.33:633][424]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-21.39.33
+[2021.06.18-19.39.33:633][424]LogWorld: Bringing up level for play took: 0.002016
+[2021.06.18-19.39.33:633][424]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.06.18-19.39.33:637][424]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 0.539
+[2021.06.18-19.39.33:637][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.39.34:353][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.39.34:354][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-19.39.34:354][509]LogWorld: BeginTearingDown for /Game/Assets/UEDPIE_0_Main
+[2021.06.18-19.39.34:354][509]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-19.39.34:358][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.18-19.39.34:359][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.39.34:387][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.18-19.39.34:392][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.18-19.39.34:458][516]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.06.18-19.42.50:594][200]Candidate modules for hot reload:
+[2021.06.18-19.42.50:594][200]  CubeCraft2_0
+[2021.06.18-19.42.50:594][200]Launching UnrealBuildTool... [D:/EpicGames/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CubeCraft2_0,9248 Win64 Development -TargetType=Editor -Project="D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject" "D:/Projects/CubeCraft2_0/CubeCraft2_0.uproject"  -IgnoreJunk]
+[2021.06.18-19.42.50:597][200]Warning: Starting HotReload took  0.0s.
+[2021.06.18-19.43.08:502][336]CompilerResultsLog: New page: Compilation - 18 Jun 2021 23:43:08
+[2021.06.18-19.43.08:502][336]CompilerResultsLog: Parsing headers for CubeCraft2_0Editor
+[2021.06.18-19.43.08:502][336]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\CubeCraft2_0\CubeCraft2_0.uproject" "D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\CubeCraft2_0Editor\Development\CubeCraft2_0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.06.18-19.43.08:503][336]CompilerResultsLog: Reflection code generated for CubeCraft2_0Editor in 9.8089991 seconds
+[2021.06.18-19.43.08:503][336]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.18-19.43.08:503][336]CompilerResultsLog: Distributing 5 actions to XGE
+[2021.06.18-19.43.08:503][336]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.06.18-19.43.08:503][336]CompilerResultsLog: License is invalid:
+[2021.06.18-19.43.08:503][336]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2021.06.18-19.43.08:504][336]CompilerResultsLog:     This build will run in standalone mode.
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: 
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: Picker.gen.cpp (0:01.11 at +0:00)
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: Picker.cpp (0:04.10 at +0:01)
+[2021.06.18-19.43.08:504][336]CompilerResultsLog: UE4Editor-CubeCraft2_0-9248.dll (0:00.86 at +0:05)
+[2021.06.18-19.43.08:504][336]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-9248.suppressed.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-9248.suppressed.exp
+[2021.06.18-19.43.08:505][336]CompilerResultsLog: UE4Editor-CubeCraft2_0-9248.lib (0:00.20 at +0:06)
+[2021.06.18-19.43.08:505][336]CompilerResultsLog:    Trwa tworzenie biblioteki D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-9248.lib i obiektu D:\Projects\CubeCraft2_0\Intermediate\Build\Win64\UE4Editor\Development\CubeCraft2_0\UE4Editor-CubeCraft2_0-9248.exp
+[2021.06.18-19.43.08:505][336]CompilerResultsLog: CubeCraft2_0Editor.target (0:00.21 at +0:06)
+[2021.06.18-19.43.08:505][336]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: 
+[2021.06.18-19.43.08:506][336]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: 
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: 1 build system warning(s):
+[2021.06.18-19.43.08:506][336]CompilerResultsLog:    - License is invalid
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: 
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: Total time in XGE executor: 6.79 seconds
+[2021.06.18-19.43.08:506][336]CompilerResultsLog: Total execution time: 17.82 seconds
+[2021.06.18-19.43.08:506][336]LogMainFrame: MainFrame: Module compiling took 17.916 seconds
+[2021.06.18-19.43.08:533][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.06.18-19.43.08:584][336]LogClass: Could not find existing class Picker in package /Script/CubeCraft2_0 for HotReload, assuming new class
+[2021.06.18-19.43.08:601][336]LogHotReload: Re-instancing Picker after hot-reload.
+[2021.06.18-19.43.08:781][336]LogContentBrowser: Native class hierarchy updated for 'CubeCraft2_0' in 0.0006 seconds. Added 7 classes and 6 folders.
+[2021.06.18-19.43.08:786][336]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.18-19.43.08:863][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.18-19.43.08:882][336]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2871 classes and 688 folders.
+[2021.06.18-19.43.08:882][336]Display: HotReload took 18.3s.
+[2021.06.18-19.43.09:980][432]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.18-19.43.09:997][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.43.09:998][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.18-19.43.09:998][432]PIE: New page: PIE session: Main (18 Jun 2021 23:43:09)
+[2021.06.18-19.43.09:998][432]LogPlayLevel: Creating play world package: /Game/Assets/UEDPIE_0_Main
+[2021.06.18-19.43.10:050][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051579s)
+[2021.06.18-19.43.10:051][432]LogAIModule: Creating AISystem for world Main
+[2021.06.18-19.43.10:051][432]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2021.06.18-19.43.10:051][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Main.Main to /Game/Assets/UEDPIE_0_Main.Main (0.053141s)
+[2021.06.18-19.43.10:119][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.06.18-19.43.10:168][432]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.18-19.43.10:379][432]LogInit: FAudioDevice initialized.
+[2021.06.18-19.43.10:384][432]LogLoad: Game class is 'BP_CubeCraftGameModeBase_C'
+[2021.06.18-19.43.10:386][432]LogWorld: Bringing World /Game/Assets/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.06.18-21.43.10
+[2021.06.18-19.43.10:387][432]LogWorld: Bringing up level for play took: 0.002032
+[2021.06.18-19.43.10:387][432]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.06.18-19.43.10:390][432]PIE: Play in editor start time for /Game/Assets/UEDPIE_0_Main 1.292
+[2021.06.18-19.43.10:390][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Assets/Main.Main_C' with ClassGeneratedBy '/Game/Assets/Main.Main:PersistentLevel.Main'
+[2021.06.18-19.43.14:360][907]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.18-19.43.14:361][907]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)
