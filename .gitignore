@@ -69,5 +69,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Shipped
 Out
 *.pak
+
+# Compressed data
+*.zip
+*.rar
