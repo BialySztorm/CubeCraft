@@ -70,3 +70,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Out
+*.pak
