@@ -13,7 +13,7 @@ UHiter::UHiter()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
-	bReplicates = true;
+	//bReplicates = true;
 	// ...
 }
 

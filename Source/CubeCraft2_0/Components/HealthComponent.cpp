@@ -15,7 +15,7 @@ UHealthComponent::UHealthComponent()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
-	bReplicates = true;
+	//bReplicates = true;
 	// ...
 }
 
@@ -38,7 +38,7 @@ void UHealthComponent::Client_Scratch_Implementation(ABlock* BlockRef2)
 
 void UHealthComponent::Client_Effects_Implementation()
 {
-	bReplicates = true;
+	//bReplicates = true;
 	UGameplayStatics::SpawnEmitterAtLocation(this, DestroyParticle, GetOwner()->GetActorLocation());
 	UGameplayStatics::PlaySoundAtLocation(this, DestroySound, GetOwner()->GetActorLocation());
 }
